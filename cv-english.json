@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Ruben Balaguer Pico",
+    "label": "Junior Web Developer",
+    "image": "./public/yo.png",
+    "email": "rbalaguerpico@gmail.com",
+    "phone": "+34 688888888",
+    "url": "https://midu.dev",
+    "summary": "Web Development student at CIPFP Batoi, currently living in Alcoy.",
+    "location": {
+      "address": "",
+      "postalCode": "03804",
+      "city": "Alcoy",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ruben Balaguer Pico",
+        "url": "www.linkedin.com/in/ruben-balaguer-pico"
+      },
+      {
+        "network": "GitHub",
+        "username": "gorrion09",
+        "url": "https://github.com/gorrion09"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Colegio Jose Arnauda",
+      "position": "IT Assistant",
+      "url": "https://colegioarnauda.org/",
+      "startDate": "2024-04-05",
+      "endDate": "2024-06-03",
+      "summary": "Most-watched programming streamer in Spanish on Twitch. Over 1 million followers across all my social networks. Recognized by Google, Microsoft, and GitHub for my impact on the developer community.",
+      "highlights": [
+        "Assisted with any tasks related to computers."
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "CIPFP Batoi",
+    "url": "https://www.cipfpbatoi.es/",
+    "area": "Microcomputer Systems and Networks",
+    "studyType": "Associate Degree",
+    "startDate": "2022-11-13",
+    "endDate": "2024-06-03"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Beginner",
+      "keywords": [
+        "Databases", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Beginner",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Beginner",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Working proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Windows Script",
+      "isActive": true,
+      "description": "Basic script for Windows",
+      "highlights": [
+        "Useful for inspiration in programming"
+      ],
+      "url": "https://github.com/gorrion09/Script-Menu-Windows-.git"
+    },
+    {
+      "name": "Creating new projects"
+    }
+  ]
+}
